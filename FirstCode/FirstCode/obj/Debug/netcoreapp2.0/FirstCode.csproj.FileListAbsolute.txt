@@ -1,0 +1,11 @@
+C:\code\EntityFramework\FirstCode\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.deps.json
+C:\code\EntityFramework\FirstCode\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.runtimeconfig.json
+C:\code\EntityFramework\FirstCode\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.runtimeconfig.dev.json
+C:\code\EntityFramework\FirstCode\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.dll
+C:\code\EntityFramework\FirstCode\FirstCode\bin\Debug\netcoreapp2.0\FirstCode.pdb
+C:\code\EntityFramework\FirstCode\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.csprojResolveAssemblyReference.cache
+C:\code\EntityFramework\FirstCode\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.csproj.CoreCompileInputs.cache
+C:\code\EntityFramework\FirstCode\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.AssemblyInfoInputs.cache
+C:\code\EntityFramework\FirstCode\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.AssemblyInfo.cs
+C:\code\EntityFramework\FirstCode\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.dll
+C:\code\EntityFramework\FirstCode\FirstCode\obj\Debug\netcoreapp2.0\FirstCode.pdb
